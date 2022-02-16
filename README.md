@@ -26,4 +26,4 @@ I'm a fullstack web developer from Canton, Ohio that specializes in creating the
 
 ## Follow Me
 * [@TheOriginalBPC](https://twitter.com/TheOriginalBPC) on Twitter
-* [@britishpandachick](https://www.instagram.com/britishpandachick)
+* [@britishpandachick](https://www.instagram.com/britishpandachick) on Instagram
