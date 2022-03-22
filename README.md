@@ -10,9 +10,9 @@ I'm a fullstack web developer from Canton, Ohio that specializes in creating the
 * Follow me on [DEV](https://dev.to/theoriginalbpc).
 * Follow me on [Code Newbie](https://community.codenewbie.org/theoriginalbpc).
 
-💚 I am the moderator of Elphas Can Code. Elphas Can Code is an online community on [Elpha](https://elpha.com/) where all Elpha members learning to code can talk and support each other as they learn how to code.
+💚 I served as the moderator of Elphas Can Code from 2019 - 2022. Elphas Can Code was an online community on [Elpha](https://elpha.com/) where all Elpha members learning to code can talk and support each other as they learn how to code.
 
-🏰 I created the Disney Codes Challenge in 2019. Disney Codes Challenge is a 57 day coding challenge where developers build web projects inspired by Disney  each day for 23 minutes. If you are interested in doing the challenge, you can share your progress using the hashtag #DisneyCodesChallenge.
+🏰 I created the Disney Codes Challenge in 2019. Disney Codes Challenge is a 57 day coding challenge where developers build web projects inspired by Disney each day for 23 minutes. If you are interested in doing the challenge, you can share your progress using the hashtag #DisneyCodesChallenge.
 
 * Click [here](https://dev.to/theoriginalbpc/everything-you-need-to-know-about-disney-codes-challenge-3ojb) to learn more about the Disney Codes Challenge!.
 
