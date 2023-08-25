@@ -1,6 +1,6 @@
 # Hello World! I'm Sarah.
 
-I'm a fullstack web developer from Canton, Ohio that specializes in creating the front elements on web applications and translating web designs into websites using JavaScript and WordPress. I teach coding skills to elementary and middle school students through Coding with Kids. I'm looking for transition into a full time remote front end role that uses JavaScript and JavaScript frameworks.
+I'm a fullstack web developer from Canton, Ohio that specializes in creating the front elements on web applications and translating web designs into websites using JavaScript and WordPress. I teach coding skills to elementary and middle school students at Coding with Kids. I'm looking for transition into a full time remote front end role that uses JavaScript and JavaScript frameworks and will allow me to help businesses get online and be found by the customers they want to connect with.
 
 * Click [here](https://britishpandachick.github.io) to look at my portfolio.
 
@@ -17,7 +17,7 @@ I'm a fullstack web developer from Canton, Ohio that specializes in creating the
 * Click [here](https://dev.to/theoriginalbpc/everything-you-need-to-know-about-disney-codes-challenge-3ojb) to learn more about the Disney Codes Challenge!.
 
 ## Fun Facts
-👩‍🏫 In addition to my coding experience, I have 9 years of teaching experience mentoring and differentiating curriculum to fit individual learning styles.
+👩‍🏫 In addition to my coding experience, I have 9 years of teaching experience by mentoring and differentiating curriculum to fit individual learning styles.
 
 🧵 When I'm not coding, you can often find me working on a craft project. I do lots of embroidery, felt applique, and cross stitch. I also made fun projects like beaded ornaments, origami, and diamond painting. You can see my projects on my Instagram.
 
