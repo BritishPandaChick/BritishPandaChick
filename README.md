@@ -22,5 +22,5 @@ I'm a fullstack web developer from Akron, Ohio that specializes in creating the 
 ## Follow Me
 * Click [here](https://britishpandachick.github.io) to look at my portfolio and see samples of my work.
 * Click [here](https://www.linkedin.com/in/sarahbartleybpc/) to connect with me on LinkedIn.
-* Follow [@TheOriginalBPC](https://twitter.com/TheOriginalBPC) to follow me on Twitter.
+* Follow [@TheOriginalBPC](https://twitter.com/TheOriginalBPC) on Twitter to see what I'm working on.
 * Follow [@britishpandachick](https://www.instagram.com/britishpandachick) on Instagram to see what craft projects I'm working on.
