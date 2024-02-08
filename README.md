@@ -3,7 +3,7 @@
 I'm a fullstack web developer from Akron, Ohio that specializes in creating the front end elements on web applications, translating web designs into websites using JavaScript and WordPress, and maintaining websites by testing for usability and accessibilty. I am also an online coding instructor at Coding with Kids, an organization that teaches kids coding concepts. I teach Python to students of all ages and coach them through different Python projects. In addition to teaching coding to kids, I have 9 years of teaching exprience mentoring and differentating curriculum to fit individual learning styles of different students. I'm looking to transition into a full time remote front end role that uses JavaScript and JavaScript frameworks so businesses can get online quicker and easily connect with the customers they want to work with.
 
 ## About Sarah 
-✍️ I have managed 3 blogs ever since 2015. I managed The Original BritishPandaChick, BritishPandaChick Codes, and Needlework Kits. Now I write posts on Code Newbie and DEV.
+✍️ I have managed 3 blogs from 2015 - 2021 . I managed The Original BritishPandaChick, BritishPandaChick Codes, and Needlework Kits. Now I write posts on Code Newbie and DEV.
 
 * Follow me on [DEV](https://dev.to/theoriginalbpc).
 * Follow me on [Code Newbie](https://community.codenewbie.org/theoriginalbpc).
@@ -18,6 +18,9 @@ I'm a fullstack web developer from Akron, Ohio that specializes in creating the 
 🧵 When I'm not coding, you can often find me working on a craft project. I do lots of embroidery, felt applique, and cross stitch. I also made fun projects like beaded ornaments, origami, and diamond painting. You can see my projects on my Instagram.
 
 🐼 BritishPandaChick actually pays tribute to a lot of things. British represents my love of British literature and culture while pandas represent my love of pandas. Chick is my tribute to all the usernames I created in the past.
+
+## What I'm Working On
+I am going through all my posts on CodeNewbie and DEV to make edits and update content. I've been publishing all my posts again on Twitter. I am making sure all posts on CodeNewbie and DEV are the same so I'm keeping everything consistent on the platforms. I've also been working more with WordPress and have been creating different WordPress websites to play around with Elementor and Make WordPress themes. I am also building games from the Coding with Kids curriculum to get an idea how to teach these concepts to my Level M classes.
 
 ## Follow Me
 * Click [here](https://britishpandachick.github.io) to look at my portfolio and see samples of my work.
