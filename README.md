@@ -1,29 +1,34 @@
 # Hello World! I'm Sarah.
-
-I'm a fullstack web developer from Akron, Ohio that specializes in creating the front end elements on web applications, translating web designs into websites using JavaScript and WordPress, and maintaining websites by testing for usability and accessibilty. I am also an online coding instructor at Coding with Kids, an organization that teaches kids coding concepts. I teach Python to students of all ages and coach them through different Python projects. In addition to teaching coding to kids, I have 9 years of teaching exprience mentoring and differentating curriculum to fit individual learning styles of different students. I'm looking to transition into a full time remote front end role that uses JavaScript and JavaScript frameworks so businesses can get online quicker and easily connect with the customers they want to work with.
+I am a software developer from Akron, Ohio that specializes in building and editing web appplications that help businesses and customers connect. I teach kids computer science fundamentals and how to create games in Python online at Coding with Kids.
 
 ## About Sarah 
-✍️ I have managed 3 blogs from 2015 - 2021 . I managed The Original BritishPandaChick, BritishPandaChick Codes, and Needlework Kits. Now I write posts on Code Newbie and DEV.
+✍️ I have managed 3 blogs from 2015 - 2021. Some of the blogs I've managed are The Original BritishPandaChick, BritishPandaChick Codes, and Needlework Kits. Today I write posts on DEV. You can follow me on [DEV](https://dev.to/theoriginalbpc).
 
-* Follow me on [DEV](https://dev.to/theoriginalbpc).
-* Follow me on [Code Newbie](https://community.codenewbie.org/theoriginalbpc).
+💚 I served as the moderator of Elphas Can Code from 2019 - 2022. Elphas Can Code was an online community on Elpha where all Elpha members learning to code can talk and support each other as they learn how to code.
 
-💚 I served as the moderator of Elphas Can Code from 2019 - 2022. Elphas Can Code was an online community on [Elpha](https://elpha.com/) where all Elpha members learning to code can talk and support each other as they learn how to code.
+🏰 I created the Disney Codes Challenge in 2019. Disney Codes Challenge is a 57 day coding challenge where developers build projects inspired by Disney each day for 23 minutes. If you are interested in doing the challenge, you can share your progress using the hashtag #DisneyCodesChallenge. You can learn more about this challenge with this [post](https://dev.to/theoriginalbpc/everything-you-need-to-know-about-disney-codes-challenge-3ojb).
 
-🏰 I created the Disney Codes Challenge in 2019. Disney Codes Challenge is a 57 day coding challenge where developers build web projects inspired by Disney each day for 23 minutes. If you are interested in doing the challenge, you can share your progress using the hashtag #DisneyCodesChallenge.
+🧵 You can often find me working on a craft project. I do lots of embroidery, felt applique, and cross stitch. I also made fun projects like beaded ornaments, origami, and diamond painting. Lately I've been doing lots of painting and began learning how to crochet. You can see my projects on my Instagram.
 
-* Click [here](https://dev.to/theoriginalbpc/everything-you-need-to-know-about-disney-codes-challenge-3ojb) to learn more about the Disney Codes Challenge!.
+🐼 BritishPandaChick pays tribute to a lot of things. British represents my love of British literature and culture while pandas represent my love of the cuddly creatures. Chick is my tribute to all the usernames I created in the past.
 
-### Fun Facts
-🧵 When I'm not coding, you can often find me working on a craft project. I do lots of embroidery, felt applique, and cross stitch. I also made fun projects like beaded ornaments, origami, and diamond painting. You can see my projects on my Instagram.
-
-🐼 BritishPandaChick actually pays tribute to a lot of things. British represents my love of British literature and culture while pandas represent my love of pandas. Chick is my tribute to all the usernames I created in the past.
+## New Year Roadmap
+- Code more = currently reviewing old lessons. Hoping to start a new language by the end of the year. Overall working on easing myself back into coding.
+- Write more = currently publishing a post once a week. Trying to be better at writing once a day.
+- Build more = would like to get back into the habit of building personal projects again besides stuff for Coding with Kids.
+- Professional development = need to start listening more podcasts (i.e. catch up on CodeNewbie for starters!). Currently updating my LinkedIn and resume.
+- Back to work at Coding with Kids after a break.
+- Continue to work on mental health by being kinder to myself and doing self-care. 
 
 ## What I'm Working On
-I am going through all my posts on CodeNewbie and DEV to make edits and update content. I've been publishing all my posts again on Twitter. I am making sure all posts on CodeNewbie and DEV are the same so I'm keeping everything consistent on the platforms. I've also been working more with WordPress and have been creating different WordPress websites to play around with Elementor and Make WordPress themes. I am also building games from the Coding with Kids curriculum to get an idea how to teach these concepts to my Level M classes.
+- I submitted a CFP to Virtual Coffee this month for their first virtual conference. I will find out in March if my talk is chosen. 
+- I also applied to be a volunteer to Virtual Jane Con this summer. 
+- I'm currently re-reviewing PYthon on SoloLearn.
+- I started learning Korean on Drops. I'm currently learning Korean numbers.
+- Learned how to crochet. Made a gingerbread man and a reindeer. Currently back to felt applique embroidery to see if I can get a project done by July!
 
 ## Follow Me
-* Click [here](https://britishpandachick.github.io) to look at my portfolio and see samples of my work.
-* Click [here](https://www.linkedin.com/in/sarahbartleybpc/) to connect with me on LinkedIn.
-* Follow [@TheOriginalBPC](https://twitter.com/TheOriginalBPC) on Twitter to see what I'm working on.
-* Follow [@britishpandachick](https://www.instagram.com/britishpandachick) on Instagram to see what craft projects I'm working on.
+* Learn more about me at my [portfolio](https://britishpandachick.github.io) webssite.
+* Connect with me on [LinkedIn](https://www.linkedin.com/in/sarahbartleydye/).
+* Follow [@TheOriginalBPC](https://twitter.com/TheOriginalBPC) on X.
+* Follow [@britishpandachick](https://www.instagram.com/britishpandachick) on Instagram.
