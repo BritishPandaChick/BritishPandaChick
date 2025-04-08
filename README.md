@@ -21,14 +21,14 @@ I am a software developer from Akron, Ohio that specializes in building and edit
 - Continue to work on mental health by being kinder to myself and doing self-care. 
 
 ## What I'm Working On
-- submitted a CFP to Virtual Coffee this month for their first virtual conference in April. I'll find out this month if my talk is chosen.
-- applied to be a volunteer to Virtual Jane Con this summer. Virtual Jane Con is an virtual event for Jane Austen fans.
-- re-reviewing PYthon on SoloLearn.
-- back to learning Korean on Drops. Currently learning how to count in Korean.
+- my CFP was chosen in March. So I'll be speaking at the first ever Virtual Coffee conference in April. Curently working on my talk. Conference will be on April 25.
+- started reviewing Skillcrush's Git & Github course. I started a new series on DEV.
+- re-reviewing Python on SoloLearn. Finished the Introduction to Python course. Starting the Python Intermediate course.
+- back to learning Korean on Drops. Currently learning how to describe places in Korean.
 - Working on a felt applique tree skirt.
 
 ## What I'm Listening to
-ROSÉ and Bruno Mars "APT"
+Wicked Soundtrack (the original broadway soundtrack). I'm loving "No One Mours the Wicked" and "No Good Deed".
 
 ## Follow Me
 * Learn more about me at my [portfolio](https://britishpandachick.github.io) webssite.
