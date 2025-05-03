@@ -13,22 +13,22 @@ I am a software developer from Akron, Ohio that specializes in building and edit
 🐼 BritishPandaChick pays tribute to a lot of things. British represents my love of British literature and culture while pandas represent my love of the cuddly creatures. Chick is my tribute to all the usernames I created in the past.
 
 ## New Year Roadmap
-- currently reviewing old lessons. Hoping to start a new language by the end of the year. Overall working on easing myself back into coding.
-- publishing a post once a week. Trying to be better at writing once a day.
-- would like to get back into the habit of building personal projects again besides stuff for Coding with Kids.
+- currently reviewing old lessons. Hoping to start a new language by the end of the year. Overall easing myself back into coding.
+- publishing a post once a week. Trying to be better at writing once a day. Took a break to work on my talk for Code & Coffee in April. I hope to get back to posting in May.
+- get back into the habit of building personal projects again besides stuff for Coding with Kids.
 - start listening more podcasts (i.e. catch up on CodeNewbie for starters!). Currently updating my LinkedIn and resume.
-- Back to work at Coding with Kids after a break.
+- Back to work at Coding with Kids.
 - Continue to work on mental health by being kinder to myself and doing self-care. 
 
 ## What I'm Working On
-- my CFP was chosen in March. So I'll be speaking at the first ever Virtual Coffee conference in April. Curently working on my talk. Conference will be on April 25.
+- Code & Coffee was on April 25. I spent the last couple of months putting my talk together and getting it recorded in time for the conference.
 - started reviewing Skillcrush's Git & Github course. I started a new series on DEV.
-- re-reviewing Python on SoloLearn. Finished the Introduction to Python course. Starting the Python Intermediate course.
-- back to learning Korean on Drops. Currently learning how to describe places in Korean.
+- re-reviewing Python on SoloLearn. Working on the Python Intermediate course.
+- back to learning Korean on Drops. Currently on the Who is That? section.
 - Working on a felt applique tree skirt.
 
 ## What I'm Listening to
-Wicked Soundtrack (the original broadway soundtrack). I'm loving "No One Mours the Wicked" and "No Good Deed".
+BlackPink & Dua Lipa "Kiss and Make Up"
 
 ## Follow Me
 * Learn more about me at my [portfolio](https://britishpandachick.github.io) webssite.
