@@ -18,22 +18,20 @@ I am a software engineer from Akron, Ohio that designs and codes web application
 
 ## Roadmap for Second Half of 2025
 - get back to building a writing habit. I like to try to write at least 30 minutes a day or edit a post I've already written.
-- listen to one podcast episode a day or read one technical article.
+- listen to one podcast episode or read a programming artilce per day. I've been listening to a lot of career books so I'd like to listen to one audiobook per month.
 - attend one networking event per month.
-- finish the tree skirt I started during the first half. Do an hour of crafting a day to get it done.
-- Learn a new programming language.
+- Continue working on tree skirt. I am going to try to do an hour of crafting a day to get it done.
 - Get back on the job search or at least research roles I want. 
 
 ## What I'm working on now:
-- Reviewing SQL and Java using SoloLearn courses.
-- Learning Korean in in Drops.
-- Publishing one post per week (Look for a new post on Sunday). Currently wrpapping up the CNC2018 Get a Job Challenge series on DEV. 
+- Using LinkedIn Learning to learn more about data and skills related to data analytics.
+- Learning Korean in in Drops. Just got a Mango account and have been using that to review concepts I've learned about Drops.
+- Publishing one post per week. Switching up my daily post schedule right now.
 - Publishing one post per week on LinkedIn. I'm doing my best to make LinkedIn a habit and have been using this platform more than most social media platforms I have.
 - Writing 25 minutes using a pomodoro timer.
-- Attending two Virtual Coffee events a week.
+- Attending Job Hunt Virtual Coffee event on Wednesdays. I'm hoping to join one of the weekly chats soon.
 - Slowly working on the tree skirt when I can. 
-- Organizing the top of my desk.
 
 ## What I'm Listening to
-ILLIT "Magnetic"
+David Archuleta "Creme Brulee"
 
