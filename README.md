@@ -17,19 +17,23 @@ I am a software engineer from Akron, Ohio that designs and codes web application
 🐼 BritishPandaChick pays tribute to a lot of things. British represents my love of British literature and culture while pandas represent my love of the cuddly creatures. Chick is my tribute to all the usernames I created in the past.
 
 ## Roadmap for Second Half of 2025:
-- create a habit of writing regularly. I'm currently trying to write at least 25-30 minutes a day.
-- Do one professional development activity per day. This includes listening to a podcast episode, reading a programming article,or listening/reading a career book.
-- attend one networking event per month.
-- Build a habit of crafting. I am trying to continue working on tree skirt. 
-- Get back on the job search or at least research roles I want. 
+* create a habit of writing regularly. I'm currently trying to write at least 25-30 minutes a day.
+* Do one professional development activity per day. This includes:
+- listening to a podcast episode
+- reading a programming article
+- listening/reading a career book
+* attend one networking event per month.
+*  Build a habit of crafting. I am trying to continue working on tree skirt. 
+* Get back on the job search or at least research roles I want. 
 
 ### Progress Update
-- I obtained a library card and have been using the digital resources my library has available. I'm currently using LinkedIn Learning to take different courses and get more certfications. I just obtained one for an introduction to data analytics.
-- I'm learning Korean. I am using Drops and Mango from my local library.
-- I have been publishing one post per week on DEV. I am still a work in progress on writing regulary, but I still do something writing related (writing or editing) every day for 25 minutes.
-- I publish an update on LinkedIn once a week. Sometimes I post a little bit more but I'm trying to use LinkedIn more than any other social media platform.
-- I attend one Virtual Coffee event each week. Sometimes it has been two depending what I have going during the week. Lately I've been attending Job Hunt on Wednesday mornings and Feeling Fridays on Fridays. Last month I attended my first Virtual Coffee event since last year. 
+* Taking more data analytics courses on LinkedIn Learning. I've been looking into ones for cybersecurity and AI.
+* Learning Korean. I'm using the apps Drops and Mango.
+* Publishing one post per week on DEV. I'm spending 25 minutes a day writing or editing posts.
+* Post once a week on LinkedIn.
+* New session has started at Coding with Kids. I'm teaching 3 classes (2 Level M and 1 Level 2).
+* Attending at lease one Virtual Coffee event per week. I'm currently trying to do Job Hunt on Wednesdays at 10 a.m. EST and am thinking about how to be active in other Slack groups.
 
 ## What I'm Listening to
-David Archuleta "Creme Brulee"
+TXT "Heaven" but I have also been listening to the "Prologue (Hunter's Mantra)" from KPOP Demon Hunters Deluxe Soundtrack.
 
