@@ -24,12 +24,11 @@ Today I write posts on DEV. Follow me on [DEV](https://dev.to/theoriginalbpc) to
 - Chick is my tribute to all the usernames I created in the past.
 
 ### What I'm Working On
-* Taking LinkedIn Learning courses and earning certifications. Right now I'm taking Agile Foundations course. This course is part of Agile certification. Up next is Scrum!
-* Learning Korean. I'm using the apps Drops and Mango while watching KDramas when I can.
-* Current session is almost ending so it is time to do progress reports. The final session of 2025 starts on November 15. I'm teaching 4 classes (2 Level M and 2 Level 2).
+* Taking LinkedIn Learning courses and earning certifications. I just finished learning about Scrum. Now I'm learning about Jira.
+* Learning Korean. I'm using Drops while watching KDramas when I can.
+* Participated in Virtual Coffee's monthly challenge for November. I worked on the tree skirt and made crafting a habit with the help of a pomodoro clock.
+* Writing more posts. I haven't published a post in a couple weeks, but I've been writing and editing more posts.
 
 ## What I'm Listening to
-- TXT "Blue Hour"
-- Twice "This is For"
-- Juju B. Goode & dv/sn "Everybody Wants to Rule the World"
+"Last Christmas" by Wham! (https://youtu.be/E8gmARGvPlI?si=vTMwtaiIcToadz2b)
 
