@@ -1,7 +1,7 @@
 # Hi, I'm Sarah.
 I am a software engineer from Akron, Ohio that designs and codes web applications. I teach computer science fundamentals and how to build games in Python at Coding with Kids.
 
-* Learn more about me at my [portfolio](https://britishpandachick.github.io) website.
+* Learn more at my [portfolio](https://britishpandachick.github.io) website.
 * Connect with me on [LinkedIn](https://www.linkedin.com/in/sarahbartleydye).
 * Follow [@TheOriginalBPC](https://twitter.com/TheOriginalBPC) on X.
 
@@ -24,11 +24,11 @@ Today I write posts on DEV. Follow me on [DEV](https://dev.to/theoriginalbpc) to
 - Chick is my tribute to all the usernames I created in the past.
 
 ### What I'm Working On
-* Taking LinkedIn Learning courses and earning certifications. I just finished learning about Scrum. Now I'm learning about Jira.
+* Taking more LinkedIn Learning courses and earning certificates. I finished learning about Scrum. Now I'm learning about Jira and how to use it.
 * Learning Korean. I'm using Drops while watching KDramas when I can.
 * Participated in Virtual Coffee's monthly challenge for November. I worked on the tree skirt and made crafting a habit with the help of a pomodoro clock.
 * Writing more posts. I haven't published a post in a couple weeks, but I've been writing and editing more posts.
 
 ## What I'm Listening to
-"Last Christmas" by Wham! (https://youtu.be/E8gmARGvPlI?si=vTMwtaiIcToadz2b)
+["Last Christmas" by Wham!](https://youtu.be/E8gmARGvPlI?si=vTMwtaiIcToadz2b)
 
