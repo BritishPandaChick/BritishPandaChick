@@ -1,21 +1,38 @@
 # Hello World, I'm Sarah.
-I am a software engineer from Akron, Ohio that designs and codes web applications. I teach computer science fundamentals and how to build games in Python at Coding with Kids.
+Full-stack developer | Technical Educator | Technical Writer | Developer Mentor
 
-### What I'm Working On
-* Taking more LinkedIn Learning courses and earning certificates.
-* Learning Korean.
-* Writing posts for DEV.
-* Working on a tree skirt.
+I build practical web applications, design clean user experiences, and help other developers grow their skills.
+Most of my work sits at the intersection of software engineering, web design, and developer education.
 
-### Fun FAQ
-🐼 I often get asked what's the story behind BritishPandaChick. BritishPandaChick pays tribute to different things about me. Here's the breakdown:
+### What I Do
+- Build and edit web applications
+- Design responsive, user-focused websites
+- Teach programming concepts
+- Write posts and tutorials
+- Mentor developers getting started in tech
 
-- British represents my love of British literature.
-- Pandas represent my love of panda bears.
-- Chick is my tribute to all the usernames I created in the past.
+### Tech Stack
+Frontend
+- HTML
+- CSS/Responsive Design
+- JavaScript
 
-## Follow Me
-* Learn more at my [portfolio](https://britishpandachick.github.io) website.
-* Connect with me on [LinkedIn](https://www.linkedin.com/in/sarahbartleydye).
-* Follow [@TheOriginalBPC](https://twitter.com/TheOriginalBPC) on X.
-* Follow me on [DEV](https://dev.to/theoriginalbpc) to read the latest post.
+Backend
+- Python
+- Ruby
+- PHP
+
+Web Platforms
+- WordPress
+
+Tools
+- Git & GitHub
+- VS Code
+- ChatGPT
+- Google Gemini
+
+### Connect with Me
+* Portfolio: [https://britishpandachick.github.io](https://britishpandachick.github.io)
+* LinkedIn:[https://www.linkedin.com/in/sarahbartleydye](https://www.linkedin.com/in/sarahbartleydye)
+* X: [@TheOriginalBPC](https://twitter.com/TheOriginalBPC)
+* DEV: [DEV](https://dev.to/theoriginalbpc)
