@@ -1,8 +1,7 @@
 # Hello World, I'm Sarah.
-Full-stack developer | Technical Educator | Technical Writer | Developer Mentor
+Developer Advocate | Instructional Designer | Content Developer | Full-stack Developer | Technical Educator
 
-I build practical web applications, design clean user experiences, and help other developers grow their skills.
-Most of my work sits at the intersection of software engineering, web design, and developer education.
+I design, build and edit web applications. Most of my work bridges gaps between developers and the communities they serve through teaching and written content.
 
 ### What I Do
 - Build and edit web applications
@@ -30,6 +29,7 @@ Tools
 - VS Code
 - ChatGPT
 - Google Gemini
+- Claude
 
 ### Connect with Me
 * Portfolio: [https://britishpandachick.github.io](https://britishpandachick.github.io)
