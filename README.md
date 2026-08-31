@@ -1,7 +1,7 @@
 # Hello World, I'm Sarah.
-Developer Advocate | Instructional Designer | Content Developer | Full-stack Developer | Technical Educator
+Technical Content Developer
 
-I design, build and edit web applications. Most of my work bridges gaps between developers and the communities they serve through teaching and written content.
+I bridge gaps between developers and the communities they serve through teaching and written content.
 
 ### What I Do
 - Build and edit web applications
@@ -26,6 +26,9 @@ Web Platforms
 
 Tools
 - Git & GitHub
+- Adobe Creative Suite
+- Figma
+- Canva
 - VS Code
 - ChatGPT
 - Google Gemini
